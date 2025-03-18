@@ -1,0 +1,45 @@
+.zone1{
+    background-color: blueviolet;
+}
+.zone2 {
+    margin: 20px 0;
+    text-align: center;
+    background-color: aqua;
+}
+
+.zone3 {
+    background-color: #919251;
+    padding: 20px;
+    border-radius: 8px;
+    height: 800px;
+    
+    
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+aside {
+    right: 20px;
+    top: 50%;
+    border: solid;
+    width: 10%;
+    height: 20%;
+}
+
+img {
+    position: absolute;
+    right: 15%; 
+    top: 14.5%;
+    width: 190px;
+    height: 510px;
+    border: solid;
+}
